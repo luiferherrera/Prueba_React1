@@ -1,17 +1,15 @@
 {
-  "name": "react-project-template",
+  "name": "pruebas-react-1",
   "version": "0.1.5",
   "private": true,
   "dependencies": {
     "@geostarters/eslint-config": "^0.0.6",
     "@geostarters/react-components": "^0.3.0",
-    "eslint-plugin-flowtype": "^3.2.1",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "lint": "eslint --fix --cache --ignore-path .gitignore src",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -31,7 +29,6 @@
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.1",
     "enzyme-to-json": "^3.3.5",
-    "eslint-plugin-jest": "^22.5.1",
     "flow-bin": "^0.89.0"
   },
   "jest": {
