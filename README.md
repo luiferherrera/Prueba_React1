@@ -1,21 +1,4 @@
 
-
-
-Base react template project, based in [Create React App](https://github.com/facebook/create-react-app).
-
-The eject is done in order to make it possible our own configuration.
-
-The project also includes by default our own libraries:
-
-* [icgc-react-components](https://github.com/geostarters/icgc-react-components)
-* [icgc-commons-js](https://github.com/geostarters/icgc-js-common)
-
-### //TODO
-Add our linter configuration:
-[eslint-config-geostart](https://github.com/geostarters/eslint-config-geostart/)
-
-(Now all the rules are set manually in the .eslintrc file)
-
 ## Available Scripts
 
 In the project directory, you can run:
